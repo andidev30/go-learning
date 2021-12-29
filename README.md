@@ -12,3 +12,4 @@
 10. operasi matematika ./operasi-matematika
 11. operasi perbandingan ./operasi-perbandingan
 12. operasi boolean ./operasi-boolean
+13. tipe data array ./tipe-data/array
