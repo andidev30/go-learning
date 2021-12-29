@@ -10,3 +10,4 @@
 8. konversi tipe data ./konversi-tipe-data
 9. type declarations ./type-declarations
 10. operasi matematika ./operasi-matematika
+11. operasi perbandingan ./operasi-perbandingan
